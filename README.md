@@ -14,17 +14,16 @@ This repository contain PHP files of SB ADMIN Bootstrap Template along with sepa
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin)
 [![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/sb-admin/)
+* [Download the latest release on Start Bootstrap (HTML Version) ](https://startbootstrap.com/template/sb-admin/)
 * Install via npm: `npm i startbootstrap-sb-admin`
 * Clone the repo: `git clone https://github.com/AkramChauhan/SB-Admin-PHP-Boiler-Plate.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/AkramChauhan/SB-Admin-PHP-Boiler-Plate.git)
+* [Fork, Clone, or Download on GitHub - PHP Version ](https://github.com/AkramChauhan/SB-Admin-PHP-Boiler-Plate.git)
 
 ## Usage
 
