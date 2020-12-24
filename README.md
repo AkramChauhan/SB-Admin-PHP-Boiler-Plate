@@ -21,7 +21,6 @@ This repository contain PHP files of SB ADMIN Bootstrap Template along with sepa
 To begin using this template, choose one of the following options to get started:
 
 * [Download the latest release on Start Bootstrap (HTML Version) ](https://startbootstrap.com/template/sb-admin/)
-* Install via npm: `npm i startbootstrap-sb-admin`
 * Clone the repo: `git clone https://github.com/AkramChauhan/SB-Admin-PHP-Boiler-Plate.git`
 * [Fork, Clone, or Download on GitHub - PHP Version ](https://github.com/AkramChauhan/SB-Admin-PHP-Boiler-Plate.git)
 
