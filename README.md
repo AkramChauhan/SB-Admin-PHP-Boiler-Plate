@@ -25,8 +25,8 @@ To begin using this template, choose one of the following options to get started
 
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/sb-admin/)
 * Install via npm: `npm i startbootstrap-sb-admin`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-sb-admin.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-sb-admin)
+* Clone the repo: `git clone https://github.com/AkramChauhan/SB-Admin-PHP-Boiler-Plate.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/AkramChauhan/SB-Admin-PHP-Boiler-Plate.git)
 
 ## Usage
 
@@ -40,7 +40,7 @@ After installation, run `npm install` and then run `npm start` which will open u
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/sb-admin/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/AkramChauhan/SB-Admin-PHP-Boiler-Plate.git/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/sb-admin/).
 
 ## Custom Builds
 
